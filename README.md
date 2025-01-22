@@ -108,3 +108,8 @@ Days 29-30: Perform and Reflect
 - Engage with Music You Love
   - Pick songs you enjoy to stay motivated.
   - Even simple versions of your favorite tunes make learning fun.
+ 
+<p align="center">
+  <a href="https://github.com/rlangc/30-Day-Learning.git"><b>Return to 30 Day Learning Strategy</b></a>
+<p align="center">
+  <a href="https://github.com/rlangc/Test_RCL.git"><b>Return to Home</b></a>
